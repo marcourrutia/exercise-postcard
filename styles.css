@@ -7,8 +7,8 @@
 .postcard {
 	background-color: white;
 	width: 400px;
-	height: 300px;
 	margin: auto;
+	margin-top: 60px;
 }
 
 .postcard-header {
@@ -39,7 +39,7 @@
 
 input {
 	border: none;
-	border-bottom: grey;
+	border-bottom: 1px solid grey;
 }
 
 .body-left p {
